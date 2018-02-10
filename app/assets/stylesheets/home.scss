@@ -2,6 +2,22 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-.login {
+@import "variables";
+
+.home {
   text-align: center;
+  a {
+    .login {
+      border: 2px solid $primary-color;
+      border-radius: 25px;
+      padding: 2px;
+      margin: 20px auto;
+      width: 200px;
+      .button {
+      }
+      :hover {
+        border: 2px solid $accent-color;
+      }
+    }
+  }
 }
