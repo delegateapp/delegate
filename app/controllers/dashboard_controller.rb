@@ -1,5 +1,5 @@
 class DashboardController < ApplicationController
   def struct
-    @profile = 'Tymo';
+    @profile = 'Amândio Pereira';
   end
 end
