@@ -9,12 +9,12 @@
 [ricardo]: https://github.com/tymoshchuk19
 [ricardo-pic]: https://github.com/tymoshchuk19.png?size=120
 
-<div align="center">
-  <img src="https://github.com/nelsonmestevao/delegate/blob/master/app/assets/images/logo_icon.png?raw=true" alt="Delegate" width="150">
-  <h1>Delegate</h1>
 
-  [![Trello](https://img.shields.io/badge/trello-board-blue.svg?style=flat-square)][trello]
-</div>
+<img align="right" src="https://github.com/nelsonmestevao/delegate/blob/master/app/assets/images/logo_icon.png?raw=true" alt="Delegate" width="150">
+
+# Delegate
+
+[![Trello](https://img.shields.io/badge/trello-board-blue.svg?style=flat-square)][trello]
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
