@@ -17,9 +17,7 @@
 [![Trello](https://img.shields.io/badge/trello-board-blue.svg)][trello]
 [![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/delegate/branches/master/shields_badge.svg?style=flat-square)](https://semaphoreci.com/nelsonmestevao/delegate)
 
-
-> A easier way to delegate recuring tasks.
-
+> A easier way to delegate recurring tasks.
 
 # Setup
 
@@ -54,7 +52,7 @@ Things you may want to cover:
 
 
 <div align="center">
-  <sub>
+  <sub><br><br>
 
   Born at [Hacktivate](https://hacktivate.io) 2018
   
