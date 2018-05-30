@@ -10,11 +10,18 @@
 [ricardo-pic]: https://github.com/tymoshchuk19.png?size=120
 
 
-<img align="right" src="https://github.com/nelsonmestevao/delegate/blob/master/app/assets/images/logo_icon.png?raw=true" alt="Delegate" width="150">
+<img align="left" src="https://github.com/nelsonmestevao/delegate/blob/master/app/assets/images/logo_icon.png?raw=true" alt="Delegate" width="150">
 
 # Delegate
 
-[![Trello](https://img.shields.io/badge/trello-board-blue.svg?style=flat-square)][trello]
+[![Trello](https://img.shields.io/badge/trello-board-blue.svg)][trello]
+[![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/delegate/branches/master/shields_badge.svg?style=flat-square)](https://semaphoreci.com/nelsonmestevao/delegate)
+
+
+> A easier way to delegate recuring tasks.
+
+
+# Setup
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -45,10 +52,11 @@ Things you may want to cover:
 :---: | :---: | :---:
 [João Pereira][joao] | [Nelson Estevão][nelson] | [Ricardo Canela][ricardo]
 
+
 <div align="center">
-<sub>
+  <sub>
 
-Born at [Hacktivate](https://hacktivate.io) 2018
-
-</sub>
+  Born at [Hacktivate](https://hacktivate.io) 2018
+  
+  </sub>
 </div>
