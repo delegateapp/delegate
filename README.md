@@ -1,5 +1,6 @@
 [trello]: https://trello.com/b/huIjlW7T
 [semaphoreci]: https://semaphoreci.com/nelsonmestevao/delegate
+[codacy]: https://www.codacy.com/app/nelsonmestevao/delegate?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nelsonmestevao/delegate&amp;utm_campaign=Badge_Grade
 [inchci]: http://inch-ci.org/github/nelsonmestevao/delegate
 [contributing]: #contributing
 [license]: #license
@@ -12,17 +13,18 @@
 [ricardo-pic]: https://github.com/tymoshchuk19.png?size=120
 
 
-<img align="left" src="https://github.com/nelsonmestevao/delegate/blob/master/app/assets/images/logo_icon.png?raw=true" alt="Delegate" width="150">
+<img align="right" src="https://github.com/nelsonmestevao/delegate/blob/master/app/assets/images/logo_icon.png?raw=true" alt="Delegate" width="150">
 
 # Delegate
 
 [![Trello](https://img.shields.io/badge/trello-board-blue.svg)][trello]
 [![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/delegate/branches/master/shields_badge.svg?style=flat-square)][semaphoreci]
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/26fd41703d9a483391730fd83af61ec8)][codacy]
 [![Inline docs](http://inch-ci.org/github/nelsonmestevao/delegate.svg?branch=master&style=shields)][inchci]
 
 > A easier way to delegate recurring tasks.
 
-# Setup
+## Setup
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -51,7 +53,7 @@ Things you may want to cover:
 
 ![João Pereira][joao-pic] | ![Nelson Estevão][nelson-pic] | ![Ricardo Canela][ricardo-pic]
 :---: | :---: | :---:
-[João Pereira][joao] | [Nelson Estevão][nelson] | [Ricardo Canela][ricardo]
+[João Pereira][joao] <br> :art: | [Nelson Estevão][nelson] <br> :computer: | [Ricardo Canela][ricardo] <br> :computer:
 
 
 <div align="center">
