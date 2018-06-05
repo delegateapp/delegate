@@ -1,4 +1,6 @@
 [trello]: https://trello.com/b/huIjlW7T
+[semaphoreci]: https://semaphoreci.com/nelsonmestevao/delegate
+[inchci]: http://inch-ci.org/github/nelsonmestevao/delegate
 [contributing]: #contributing
 [license]: #license
 
@@ -15,7 +17,8 @@
 # Delegate
 
 [![Trello](https://img.shields.io/badge/trello-board-blue.svg)][trello]
-[![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/delegate/branches/master/shields_badge.svg?style=flat-square)](https://semaphoreci.com/nelsonmestevao/delegate)
+[![Build Status](https://semaphoreci.com/api/v1/nelsonmestevao/delegate/branches/master/shields_badge.svg?style=flat-square)][semaphoreci]
+[![Inline docs](http://inch-ci.org/github/nelsonmestevao/delegate.svg?branch=master&style=shields)][inchci]
 
 > A easier way to delegate recurring tasks.
 
