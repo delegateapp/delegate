@@ -17,5 +17,9 @@
 // SASS GEMS
 
 // Custom
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
 @import "variables";
 @import "home";

@@ -3,21 +3,60 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 @import "variables";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
 
 .home {
+  position: absolute;
+  display: table;
+  width: 100%;
+  height: 100%;
   text-align: center;
-  a {
-    .login {
-      border: 2px solid $primary-color;
-      border-radius: 25px;
-      padding: 2px;
-      margin: 20px auto;
-      width: 200px;
-      .button {
-      }
-      :hover {
-        border: 2px solid $accent-color;
-      }
-    }
+}
+
+.wrapper {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.menu {
+  text-align: center;
+  display: inline-block;
+  width: 350px;
+}
+
+@mixin button-bg($bg) {
+  background: $bg;
+  &:hover {
+    background:darken($bg,8%);
+    transition: all 0.3s ease;
   }
+  &:active {
+    background:darken($bg,25%);
+  }
+}
+
+.btn {
+  display: block;
+  color:white;
+  text-decoration:none;
+  padding:5px 15px;
+  border-radius:3px;
+  font-family: 'Poiret One', cursive;
+  font-size:1.7em;
+  margin: 20px;
+  text-align: left;
+}
+
+.btn-facebook {
+   @include button-bg($facebook-color);
+}
+
+.btn-google-plus {
+   @include button-bg($google-plus-color);
+}
+
+.btn-twitter {
+   @include button-bg($twitter-color);
 }
