@@ -51,8 +51,8 @@ Things you may want to cover:
 
 ## Team
 
-![João Pereira][joao-pic] | ![Nelson Estevão][nelson-pic] | ![Ricardo Canela][ricardo-pic]
-:---: | :---: | :---:
+![João Pereira][joao-pic]       | ![Nelson Estevão][nelson-pic]            | ![Ricardo Canela][ricardo-pic]
+:------------------------------:|:----------------------------------------:|:--:
 [João Pereira][joao] <br> :art: | [Nelson Estevão][nelson] <br> :computer: | [Ricardo Canela][ricardo] <br> :computer:
 
 
@@ -60,6 +60,6 @@ Things you may want to cover:
   <sub><br><br>
 
   Born at [Hacktivate](https://hacktivate.io) 2018
-  
+
   </sub>
 </div>
